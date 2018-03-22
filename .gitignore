@@ -1,0 +1,4 @@
+*.pyc
+.DS_Store
+src/coco-food-model
+src/deeplab_resnet
